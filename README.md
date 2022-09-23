@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smnihal
 - 👀 I’m interested in software engineering internship/ entry level job.
 - 🌱 I’m currently learning python, java script and react
-- 💞️ I’m looking to collaborate with other software engineer
+- 💞️ I’m looking to collaborate with other engineer
 - 📫 How to reach me via email smnihal44@gmail.com
 
 <!---
